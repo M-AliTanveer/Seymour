@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Person">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAIAIABCQAAAAAEAgAAAAAAEAAAAIAAARAAABAA=</HashCode>
+      <FileName>Person.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Staff">
+    <Position X="6" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAoAACAAAACIEAAACQAAAABQAAAAAAACAA=</HashCode>
+      <FileName>Staff.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="customer">
+    <Position X="3.75" Y="9" Width="1.5" />
+    <InheritanceLine Type="Person" ManuallyRouted="true">
+      <Path>
+        <Point X="5.75" Y="4.363" />
+        <Point X="5.75" Y="6.086" />
+        <Point X="4.5" Y="6.086" />
+        <Point X="4.5" Y="9" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>gQAAAAABGIAAIAgghBIQCCEACAAAAAAAQAAwiggAAAA=</HashCode>
+      <FileName>customer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="secured">
+    <Position X="1.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAABCAAQAAAAAAIEgAAEYgRAAYCAAASgAACAAEQARA=</HashCode>
+      <FileName>security.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Manager">
+    <Position X="10.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABgAAAIAAAAAEAlAEBAAAAABAAAAAAAAAAAiAA=</HashCode>
+      <FileName>Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="chef">
+    <Position X="7.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEUAAEAABAIAAACAAAACCEAAIAAAAAAAgAIAAAAiAA=</HashCode>
+      <FileName>Chef.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Delivery_Boy">
+    <Position X="13.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAABBIAAACAAAACAFAAAEAAAAAAABAAAAACAg=</HashCode>
+      <FileName>Delivery_Boy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Order">
+    <Position X="0.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACUAACQAAUiAAACIAoAIAAAEQQIQAAAAAAAgAAEACQA=</HashCode>
+      <FileName>Order.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pizza">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAQAEAAAAAAAQAAAAAAAEAABAAAAAgA=</HashCode>
+      <FileName>pizza.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

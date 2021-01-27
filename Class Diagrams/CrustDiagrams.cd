@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="crust">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAgBAgCQACAIIAIAAEAAAAEAAAABMAAAAAAAQE=</HashCode>
+      <FileName>crust.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="deepdish">
+    <Position X="1.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAIAAAEAERAgABQAAABAAAAAAA=</HashCode>
+      <FileName>deepdish.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="focacia">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABQABAEAgAAAAEAAAAIAAAAAAAQAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>focacia.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="italian">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAEAgBAAAAgAAAIAAAAAIAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>italian.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="neapolitan">
+    <Position X="10.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAAAAAAAAAhAAAIIAAAAIACIAAAAAAAABACAAA=</HashCode>
+      <FileName>neapolitan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="newyork">
+    <Position X="13.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABQAAAEAgAAAAAgAAAIAAAAAAAAAAAAAAAACACAAAA=</HashCode>
+      <FileName>newyork.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sicilian">
+    <Position X="16.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAACAABAAAAEAAAIABAAIAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>sicilian.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="stuffed">
+    <Position X="20" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIBQAAAAAACAAAAAAAAIAAAAAAgAAiAAAAgABgAAAAA=</HashCode>
+      <FileName>stuffed.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="stlouis">
+    <Position X="23.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQBAAAAACAAAAAAAAIQAAAAAAAAiAAAAAAAAQAAAA=</HashCode>
+      <FileName>stlouis.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

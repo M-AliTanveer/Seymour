@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Person" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAIAIABCQAAAAAEAgAAAAAAEAAAAIAAARAAABAA=</HashCode>
+      <FileName>Person.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="secured" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAABCAAQAAAAAAIEgAAEYgRAAYCAAASgAACAAEQARA=</HashCode>
+      <FileName>security.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="customer" Collapsed="true">
+    <Position X="2" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAABGIAAIAgghBIQCCEACAAAAAAAQAAwiggAAAA=</HashCode>
+      <FileName>customer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Staff" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAoAACAAAACIEAAACQAAAABQAAAAAAACAA=</HashCode>
+      <FileName>Staff.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="chef" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEUAAEAABAIAAACAAAACCEAAIAAAAAAAgAIAAAAiAA=</HashCode>
+      <FileName>Chef.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Delivery_Boy" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <InheritanceLine Type="Staff">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="-0.357" Y="0.412" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAABBIAAACAAAACAFAAAEAAAAAAABAAAAACAg=</HashCode>
+      <FileName>Delivery_Boy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Manager" Collapsed="true">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABgAAAIAAAAAEAlAEBAAAAABAAAAAAAAAAAiAA=</HashCode>
+      <FileName>Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="crust" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAgBAgCQACAIIAIAAEAAAAEAAAABMAAAAAAAQE=</HashCode>
+      <FileName>crust.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="italian" Collapsed="true">
+    <Position X="2.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAEAgBAAAAgAAAIAAAAAIAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>italian.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="deepdish" Collapsed="true">
+    <Position X="9.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAIAAAEAERAgABQAAABAAAAAAA=</HashCode>
+      <FileName>deepdish.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="focacia" Collapsed="true">
+    <Position X="11.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABQABAEAgAAAAEAAAAIAAAAAAAQAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>focacia.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="neapolitan" Collapsed="true">
+    <Position X="7.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAAAAAAAAAhAAAIIAAAAIACIAAAAAAAABACAAA=</HashCode>
+      <FileName>neapolitan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sicilian" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAACAABAAAAEAAAIABAAIAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>sicilian.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="stlouis" Collapsed="true">
+    <Position X="6" Y="6" Width="1.5" />
+    <InheritanceLine Type="crust" ManuallyRouted="true">
+      <Path>
+        <Point X="5.75" Y="5.312" />
+        <Point X="5.75" Y="5.669" />
+        <Point X="6.75" Y="5.669" />
+        <Point X="6.75" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AEAQBAAAAACAAAAAAAAIQAAAAAAAAiAAAAAAAAQAAAA=</HashCode>
+      <FileName>stlouis.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="stuffed" Collapsed="true">
+    <Position X="4.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIBQAAAAAACAAAAAAAAIAAAAAAgAAiAAAAgABgAAAAA=</HashCode>
+      <FileName>stuffed.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Toping" Collapsed="true">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABEAAAAAASAAgBEQAAAAAAAAAEAAGAAAAgAAAQAAA=</HashCode>
+      <FileName>Toping.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Beef" Collapsed="true">
+    <Position X="0.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAQAAAAAAAABABAAAAAAIAAQAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Beef.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chicken" Collapsed="true">
+    <Position X="2.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAkAIBAAACIAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Chicken.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Extra_Cheez" Collapsed="true">
+    <Position X="5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABBAAAAAAAABAAAAAAAAAQBEABAA=</HashCode>
+      <FileName>Extra_Cheez.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pepperoni" Collapsed="true">
+    <Position X="7" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAARBAAAAEAQAAAAIAAAA=</HashCode>
+      <FileName>Pepperoni.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mashroom" Collapsed="true">
+    <Position X="9.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAEBAAAAAAAAAAAAAAAAEAAAARAgAAAAAAA=</HashCode>
+      <FileName>Mashroom.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sausage" Collapsed="true">
+    <Position X="11.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAgAAAAAAAAABAAAAAAAAIAAAAAAgAAABEAAAA=</HashCode>
+      <FileName>Sausage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="flavour" Collapsed="true">
+    <Position X="4.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAgBAASAAAAIAAAAAAAAAAEAAAAAAAEgAAAAAA=</HashCode>
+      <FileName>flavours.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bbq_buzz" Collapsed="true">
+    <Position X="3" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAkZQgAABABAAAQAIAAAAAAAABABgAAAAAA=</HashCode>
+      <FileName>bbq_buzz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="chilli_delight" Collapsed="true">
+    <Position X="7.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAgAUgAABAIAAAAAAAAAAIAAAAAAgAAAAAA=</HashCode>
+      <FileName>chilli_delight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fajita" Collapsed="true">
+    <Position X="11.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAgAAwAQgAABAAAhAAAIAABEAAAAAAAgAAAAAg=</HashCode>
+      <FileName>fajita.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="veggie_delight" Collapsed="true">
+    <Position X="5.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAgAQAAABAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>veggie_delight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="The_cheese" Collapsed="true">
+    <Position X="1" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAACAIAAgAQEAADACAAAAAAACAAAAAAAAAoAwAgAA=</HashCode>
+      <FileName>The_cheese.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tikka" Collapsed="true">
+    <Position X="13.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAgAYgAIBAAAgAAAIAABEAAAAAAAgAAAAAA=</HashCode>
+      <FileName>tikka.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="seekh_kebab" Collapsed="true">
+    <Position X="9.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAREAABAAAgAAAAAABEAAABAAAgAAAAAg=</HashCode>
+      <FileName>seekh_kebab.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pizza" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAQAEAAAAAAAQAAAAAAAEAABAAAAAgA=</HashCode>
+      <FileName>pizza.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Order" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACUAACQAAUiAAACIAoAIAAAEQQIQAAAAAAAgAAEACQA=</HashCode>
+      <FileName>Order.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

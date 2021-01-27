@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="flavour">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAgBAASAAAAIAAAAAAAAAAEAAAAAAAEgAAAAAA=</HashCode>
+      <FileName>flavours.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="chilli_delight">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAgAUgAABAIAAAAAAAAAAIAAAAAAgAAAAAA=</HashCode>
+      <FileName>chilli_delight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fajita">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAgAAwAQgAABAAAhAAAIAABEAAAAAAAgAAAAAg=</HashCode>
+      <FileName>fajita.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="seekh_kebab">
+    <Position X="4.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAREAABAAAgAAAAAABEAAABAAAgAAAAAg=</HashCode>
+      <FileName>seekh_kebab.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="The_cheese">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAACAIAAgAQEAADACAAAAAAACAAAAAAAAAoAwAgAA=</HashCode>
+      <FileName>The_cheese.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="veggie_delight">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAgAQAAABAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>veggie_delight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bbq_buzz">
+    <Position X="10.75" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="flavour">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.289" Y="0.074" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAkZQgAABABAAAQAIAAAAAAAABABgAAAAAA=</HashCode>
+      <FileName>bbq_buzz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tikka">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAgAYgAIBAAAgAAAIAABEAAAAAAAgAAAAAA=</HashCode>
+      <FileName>tikka.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
