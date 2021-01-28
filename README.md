@@ -18,7 +18,7 @@ A large amount of derived classes were used to provide different types of toppin
 The UI is completely graphical with no console output. This was achieved with the help of Windows Forms for C++/CLR. All classes were used as unmanaged to allow the usage of pointers and references in the project. 
 
 #### How to Compile and Run:
-1. Create an Empty C++ Project on Visual Studio (2019 preferred)
+1. Create a CLR Empty Project(.Net Framework) on Visual Studio (2019 preferred)
 2. Add a windows forms file in sources files by right clicking on source files > Add new > UI  > Windows form
 3. Import the header files into the project and similarly the Class definitions.
 4. The class diagrams are optional and are used to help in understanding the structure of the program.
