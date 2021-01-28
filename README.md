@@ -23,5 +23,10 @@ The UI is completely graphical with no console output. This was achieved with th
 3. Import the header files into the project and similarly the Class definitions.
 4. The class diagrams are optional and are used to help in understanding the structure of the program.
 5. Once imported, you'll have to make some changes based on your Program's specifications including your project name and/or your directory structure. 
+6. Myform.h has all the visuals and the design of the project. Any changes you make must also be made in MyForms.cpp
+7. Compile and run using Ctrl+F5 or debug using F5.
+
+
+Made with love and hardwork. Please don't copy without permission. 
 
 
